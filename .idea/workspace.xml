@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c9cbb68-b85a-42a2-94ff-1b51b1b3b115" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travis" beforeDir="false" afterPath="$PROJECT_DIR$/Travis" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travis/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Travis/.travis.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Travis/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Travis/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588138617796</updated>
-      <workItem from="1588138625631" duration="11918000" />
+      <workItem from="1588138625631" duration="13048000" />
     </task>
     <servers />
   </component>
